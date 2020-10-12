@@ -25,4 +25,4 @@ def using_delete(instructors)
 end
 
 def using_delete_at
-  
+  famous_robots.delete_at()
